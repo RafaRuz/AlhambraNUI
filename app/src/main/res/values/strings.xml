@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">AlhambraNUI</string>
+
+    <string name="title_activity_guide">GuideActivity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_zone">Zone</string>
+    <string name="title_activity_help">Help</string>
+    <string name="title_activity_pruebas">Pruebas</string>
+
+    <string name="dummy_button">SALIR</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="mas_cercano1">MÁS CERCANO</string>4
+    <string name="mas_cercano2">MÁS CERCANO</string>
+    <string name="comenzar_visita">Comenzar visita</string>
+    <string name="ayuda">Insignias</string>
+    <string name="inside">ESTOY DENTRO</string>
+    <string name="where_are_you">¿Dónde te encuentras?</string>
+
+    <string name="title_activity_entrada">EntradaActivity</string>
+    <string name="title_activity_google_maps">Map</string>
+
+    <string name="title_activity_carlos_v">CarlosVActivity</string>
+    <string name="title_activity_mosaicos">MosaicosActivity</string>
+
+    <string name="title_activity_generalife">GeneralifeActivity</string>
+    <string name="mos_title">Dibuja los siguientes mosaicos siguiendo el patrón.</string>
+    <string name="mos_title2">¡Más dificíl!  Dibuja el mosaico sin la imagen de fondo.</string>
+    <string name="nivel_completado">Nivel Completado!</string>
+</resources>

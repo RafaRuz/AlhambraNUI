@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AlhambraNUI</string>
+
+    <string name="title_activity_guide">GuideActivity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_zone">Zone</string>
+    <string name="title_activity_help">Help</string>
+    <string name="title_activity_pruebas">Pruebas</string>
+
+    <string name="dummy_button">SALIR</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="mas_cercano1">MÁS CERCANO</string>
+    <string name="mas_cercano2">MÁS CERCANO</string>
+    <string name="comenzar_visita">Comenzar visita</string>
+    <string name="ayuda">Insignias</string>
+    <string name="inside">ESTOY DENTRO</string>
+    <string name="where_are_you">¿Dónde te encuentras?</string>
+</resources>
